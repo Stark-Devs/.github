@@ -1,7 +1,7 @@
 
 # Stark-DEV
 
-## Wir dokumentieren Deutschland
+## Der Wohl Stärkste Discord
 
 Alle Codes welche man hier findet, wurden von Mitgliedern vom "Stark Clan" Discord gemacht.
 
