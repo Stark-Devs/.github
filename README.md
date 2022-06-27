@@ -8,9 +8,9 @@ Alle Codes welche man hier findet, wurden von Mitgliedern vom "Stark Clan" Disco
 Unseren [Discord](https://discord.com/invite/w6nyGvmnjz) findest du hier [KLICK](https://discord.com/invite/w6nyGvmnjz)
 
 ### Languages:
-<img align="left" alt="Python" width="100px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
+<img align="left" alt="Python" width="100px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg">
 <img align="left" alt="Python-Discord.py" width="100px" src="https://discordpy.readthedocs.io/en/stable/_static/discord_py_logo.ico" />
-<img align="left" alt="Python-Flask" width="100px" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" />
+<img align="left" alt="Python-Flask" width="100px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original.svg" />
 
 <br /><br /><br /><br /><br />
 
