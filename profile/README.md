@@ -18,3 +18,6 @@ Unseren [Discord](https://discord.com/invite/w6nyGvmnjz) findest du hier [KLICK]
 ## Kontakt:
 
 Näheres dazu erfährst du im GitHub-Repository von [PhilippPR](https://github.com/PhilippPR). Hier kannst du deine Fragen stellen!
+<br>
+
+Mehr infos findest du unter [HIER](https://stark-devs.github.io).
